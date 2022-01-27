@@ -1,3 +1,3 @@
-(function() {
-    console.log("bhub running v.1")
-})();
+function start(){
+    console.log("starting bhub")
+}
