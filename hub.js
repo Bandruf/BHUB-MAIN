@@ -1,1 +1,1 @@
-(function() { let Binsert = document.createElement('script'); Binsert.src = "javascript:https://raw.githubusercontent.com/Bandruf/BHUB-MAIN/main/hub.js"; document.body.appendChild(Binsert);console.log("ran")})();
+javascript:(function() { let Binsert = document.createElement('script'); Binsert.src = "https://raw.githubusercontent.com/Bandruf/BHUB-MAIN/main/hub.js"; document.body.appendChild(Binsert);console.log("ran")})();
