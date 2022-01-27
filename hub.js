@@ -1,0 +1,1 @@
+(function() { let Binsert = document.createElement('script'); Binsert.src = "hub.js"; document.body.appendChild(Binsert);console.log("ran")})();
